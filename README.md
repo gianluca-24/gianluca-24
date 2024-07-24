@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Gianluca 👋
 
-<!--
-**gianluca-24/gianluca-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Gianluca (22), here you can find all my university and non-university projects in which I took part.
 
-Here are some ideas to get you started:
+## 📚 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Bachelor's degree in Engineering and Computer Science** from University of Rome "La Sapienza", 2023
+- **Master's degree in Data Science** from University of Rome "La Sapienza", ongoing
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/gianluca-procopio-989bb8241/)
+- [Instagram](https://www.instagram.com/gianlucaaprocopio/)
+- [X](https://x.com/prochipirina)
+
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Happy coding!
+
+---
+
+Thanks for stopping by!
