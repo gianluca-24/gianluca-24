@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Gianluca (22), here you can find all my univer
 
 - **Bachelor's degree in Engineering and Computer Science** from University of Rome "La Sapienza", 2023
 - **Master's degree in Data Science** from University of Rome "La Sapienza", ongoing
-- **Erasmus exchange - TUM Informatics**, 1 year exchange program from my Master's course in Data Science at University of Rome "La Sapienza" to TUM Informatics at TU Munich, ongoing
+- **Exchange - TUM Informatics**, 1 year exchange program from my Master's course in Data Science at University of Rome "La Sapienza" to TUM Informatics at TU Munich, ongoing
 
 ## 🌐 Connect with Me
 
